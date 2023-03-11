@@ -1,0 +1,20 @@
+site_name: アタックサーフェスマネジメント：セミナーのご案内
+#site_short_name: ASMセミナーのご案内
+site_description: '脅威インテリジェンスを活用したセキュリティ対策として、攻撃対象領域（アタックサーフェス）の管理が注目されています。アタックサーフェスマネジメントのセミナーのご案内です'
+
+theme: 
+  name: material
+  #name: gitbook  
+  language: ja
+  font: 
+    text: Noto Sans JP
+    code: JetBrains Mono
+  features:
+    - header.autohide
+
+  #features:
+   # - navigation.tabs
+
+
+extra:
+  generator: false
