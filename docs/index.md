@@ -45,7 +45,9 @@ hide:
 
 - 2023年３月16日(木) 15:00 - 16:30　[申込みページ](https://events.teams.microsoft.com/event/120c6da0-0a80-428b-837d-c6805ad6d779@c30170dd-27b1-4418-8fd0-8fa942a24cf8)
 
-- 2023年４月14日(金) 13:00 - 14:30　開催予定
+- 2023年４月14日(金) 13:00 - 14:30　[申込みページ](https://events.teams.microsoft.com/event/0225005a-98e0-4028-90c0-262f7c41a51f@c30170dd-27b1-4418-8fd0-8fa942a24cf8)
+
+- 
 
 過去開催分
 
