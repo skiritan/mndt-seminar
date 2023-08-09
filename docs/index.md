@@ -43,7 +43,7 @@ hide:
 
 今後の予定（登録締切りは開催日の2日前です）
 
-- 2023年９月15日(木) 13:00 - 14:30　[申込みページ](https://events.teams.microsoft.com/event/74b18bef-59ab-4a73-9b7a-94323382ff07@c30170dd-27b1-4418-8fd0-8fa942a24cf8)
+- 2023年９月15日(金) 13:00 - 14:30　[申込みページ](https://events.teams.microsoft.com/event/74b18bef-59ab-4a73-9b7a-94323382ff07@c30170dd-27b1-4418-8fd0-8fa942a24cf8)
 
 過去開催分
 
