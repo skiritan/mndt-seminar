@@ -1,6 +1,6 @@
 site_name: アタックサーフェスマネジメント：セミナーのご案内
 #site_short_name: ASMセミナーのご案内
-site_description: '脅威インテリジェンスを活用したセキュリティ対策として、攻撃対象領域（アタックサーフェス）の管理が注目されています。アタックサーフェスマネジメントのセミナーのご案内です'
+site_description: '自分の組織のアタックサーフェスを実際に確認することで活用方法を体験。1時間半のアタックサーフェスマネジメント無料オンラインセミナーです'
 
 theme: 
   name: material
@@ -21,3 +21,4 @@ extra:
   analytics:
     provider: google
     property: G-G53Y4YRW8D
+
