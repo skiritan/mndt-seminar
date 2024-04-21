@@ -43,7 +43,7 @@ hide:
 
 今後の予定（登録締切りは開催日の2日前です）
 
-- 2024年４月18日(木) 15:00 - 16:30　[お申込み](https://docs.google.com/forms/d/e/1FAIpQLSdrsSpjD2-Lv72Oug1-Rrl6HH3YF__qbH13he6003dH_YMcLw/viewform) 
+- 2024年４月18日(木) 15:00 - 16:30　申込終了しました
 
 過去開催分
 
